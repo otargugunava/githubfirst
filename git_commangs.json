@@ -1,0 +1,9 @@
+{
+    "git":{
+        "add_changes" : "git add .",
+        "commit_changes_on_repository": "git commit -m """,
+        "push_to_server": "git push",
+        "download_projects": "git clone url",
+        "pull": "git pull"
+    }
+}
